@@ -1,0 +1,5 @@
+# The WordSimilarity-353 Test Collection (http://www.cs.technion.ac.il/~gabr/resources/data/wordsim353/)
+Word 1	Word 2	Human (mean)
+ukuthi	usiko	0.8605902194976807
+ukuthi	usiko	0.8549641370773315
+umkhwenyana	uma	8.77
