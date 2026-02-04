@@ -1,0 +1,20 @@
+ISIZULU WORD SIMILARITY EVALUATION METRICS (WORD2VEC)
+============================================================
+
+CORRELATION METRICS:
+  Spearman Correlation:  0.323926 (p=0.099288)
+  Pearson Correlation:   0.382693 (p=0.048819)
+
+CLASSIFICATION METRICS:
+  Accuracy:              0.518519
+  Precision:             0.571429
+  Recall:                0.533333
+  F1 Score:              0.551724
+
+CONFUSION MATRIX:
+  TP: 8  FP: 6
+  FN: 7  TN: 6
+
+COVERAGE:
+  Pairs Evaluated: 27/49
+  Coverage Rate:   55.10%
