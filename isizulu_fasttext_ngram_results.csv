@@ -1,0 +1,25 @@
+word1,word2,human_score,cosine_similarity,in_vocab
+inkosi,imeya,8.45,0.39907673,In Vocab
+imali,isikweletu,7.12,0.30717388,Partial N-gram
+uhulumeni,umasipala,8.9,0.2615126,In Vocab
+inkohlakalo,icala,7.5,0.5979888,Partial N-gram
+isikole,inyuvesi,8.2,0.56161827,In Vocab
+umfundi,uthisha,7.65,0.5900003,In Vocab
+izifundo,imiphumela,6.8,0.38194165,In Vocab
+u-matric,isivivinyo,9.1,0.5630635,Partial N-gram
+ingoma,icwecwe,8.55,0.641575,Partial N-gram
+umrepha,umculi,9.25,0.63059443,In Vocab
+ikhwaya,umbhalo,4.1,0.40121475,Partial N-gram
+idume,izindondo,6.4,0.4837381,Full N-gram
+amaphoyisa,abasolwa,8.15,0.5347033,In Vocab
+isibhamu,inhlamvu,9.4,0.7818112,In Vocab
+ubunhloli,umkhondo,8.7,0.81698626,In Vocab
+isiteshi,inkantolo,6.95,0.41235128,Partial N-gram
+idolobha,ilokishi,7.3,0.6722411,In Vocab
+isivakashi,ihhotela,8.85,0.6815937,Partial N-gram
+ingqalasizinda,ukuthuthukiswa,7.75,0.5363807,Partial N-gram
+emakhaya,iphesheya,3.2,0.6109257,In Vocab
+itekisi,ubudokotela,1.15,0.45470038,Partial N-gram
+umculo,isifo,0.9,0.33707786,In Vocab
+u-matric,ubumnandi,2.5,0.1910521,In Vocab
+inkosi,igwaba,1.05,0.36661142,Partial N-gram
