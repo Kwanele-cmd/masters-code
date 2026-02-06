@@ -1,0 +1,33 @@
+ISIZULU WORD SIMILARITY EVALUATION (FASTTEXT WITH SUBWORD N-GRAMS)
+======================================================================
+
+MODEL CONFIGURATION:
+  Architecture:          FastText (Skip-gram with subword n-grams)
+  Character n-grams:     3-6
+  Vector size:           200
+  Window:                7
+  Epochs:                100
+
+CORRELATION METRICS:
+  Spearman Correlation:  0.553913 (p=0.004980)
+  Pearson Correlation:   0.513046 (p=0.010353)
+
+CLASSIFICATION METRICS:
+  Accuracy:              0.750000
+  Precision:             0.750000
+  Recall:                0.750000
+  F1 Score:              0.750000
+
+CONFUSION MATRIX:
+  TP: 9  FP: 3
+  FN: 3  TN: 9
+
+COVERAGE:
+  Pairs Evaluated: 24/24
+  Coverage Rate:   100.00%
+
+SUBWORD N-GRAM ADVANTAGES:
+  - Handles out-of-vocabulary words
+  - Captures morphological patterns in agglutinative languages
+  - Better generalization for rare words
+  - Robust to typos and spelling variations
