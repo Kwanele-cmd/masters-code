@@ -9,8 +9,8 @@ MODEL CONFIGURATION:
   Epochs:                100
 
 CORRELATION METRICS:
-  Spearman Correlation:  0.553913 (p=0.004980)
-  Pearson Correlation:   0.513046 (p=0.010353)
+  Spearman Correlation:  0.548696 (p=0.005495)
+  Pearson Correlation:   0.501059 (p=0.012626)
 
 CLASSIFICATION METRICS:
   Accuracy:              0.750000
