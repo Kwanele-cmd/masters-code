@@ -1,0 +1,17 @@
+word1,word2,human_score,cosine_similarity,vocab_status
+inkosi,imeya,8.45,0.5808781385421753,Partial
+uhulumeni,umasipala,8.9,0.2854493260383606,Partial
+isikole,inyuvesi,8.2,0.5791880488395691,InVocab
+umfundi,uthisha,7.65,0.5950865149497986,InVocab
+ingoma,icwecwe,8.55,0.6279571056365967,Partial
+ubaba,umama,8.9,0.3532067835330963,InVocab
+umndeni,ikhaya,8.4,0.452970415353775,InVocab
+inja,ikati,7.9,0.830399215221405,InVocab
+imali,isikweletu,7.12,0.27294498682022095,Partial
+inkohlakalo,icala,7.5,0.547335147857666,Partial
+ikhwaya,umbhalo,4.1,0.5776229500770569,N-gram
+idolobha,ilokishi,7.3,0.6626631617546082,InVocab
+itekisi,ubudokotela,1.15,0.4317617118358612,Partial
+umculo,isifo,0.9,0.3080971837043762,InVocab
+inkosi,igwaba,1.05,0.4042512774467468,Partial
+ibhubesi,isikweletu,0.65,0.580294132232666,N-gram
