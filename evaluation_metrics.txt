@@ -1,20 +1,29 @@
-ISIZULU WORD SIMILARITY EVALUATION METRICS
-============================================================
+ISI ZULU FASTTEXT EVALUATION
+========================================
 
-CORRELATION METRICS:
-  Spearman Correlation:  0.639130 (p=0.000774)
-  Pearson Correlation:   0.622819 (p=0.001152)
+CORPUS STATS
+Sentences : 100100
+Tokens    : 1905820
+Vocab size: 7133
 
-CLASSIFICATION METRICS:
-  Accuracy:              0.750000
-  Precision:             0.750000
-  Recall:                0.750000
-  F1 Score:              0.750000
+PAIR STATS
+Pairs used   : 4335
+Pairs skipped: 0
 
-CONFUSION MATRIX:
-  TP: 9  FP: 3
-  FN: 3  TN: 9
+DIAGNOSTICS
+Cosine std dev : 0.155949
+Human  std dev : 0.131739
 
-COVERAGE:
-  Pairs Evaluated: 24/24
-  Coverage Rate:   100.00%
+CORRELATION
+Spearman rho : 0.4829  (p = 3.5703e-252)
+Pearson  r   : 0.5325  (p = 3.4837e-316)
+
+CLASSIFICATION
+Accuracy  : 0.6692
+Precision : 0.6693
+Recall    : 0.6693
+F1        : 0.6693
+
+CONFUSION MATRIX
+  TP=1451  FP=717
+  FN=717  TN=1450
