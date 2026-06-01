@@ -1,29 +1,16 @@
-ISI ZULU FASTTEXT EVALUATION
-========================================
+ISIZULU FASTTEXT SYNONYM EVALUATION REPORT
+============================================================
 
-CORPUS STATS
-Sentences : 100100
-Tokens    : 1905820
-Vocab size: 7133
+Sentences  : 315465
+Tokens     : 9728219
+Vocab size : 7995
 
-PAIR STATS
-Pairs used   : 4335
-Pairs skipped: 0
+Spearman rho : 0.5495  (p = 0.0000e+00)
+Pearson  r   : 0.5744  (p = 0.0000e+00)
 
-DIAGNOSTICS
-Cosine std dev : 0.155949
-Human  std dev : 0.131739
+Accuracy  : 0.7077
+Precision : 0.7077
+Recall    : 0.7077
+F1        : 0.7077
 
-CORRELATION
-Spearman rho : 0.4829  (p = 3.5703e-252)
-Pearson  r   : 0.5325  (p = 3.4837e-316)
-
-CLASSIFICATION
-Accuracy  : 0.6692
-Precision : 0.6693
-Recall    : 0.6693
-F1        : 0.6693
-
-CONFUSION MATRIX
-  TP=1451  FP=717
-  FN=717  TN=1450
+TP=1540  FP=636  FN=636  TN=1539
